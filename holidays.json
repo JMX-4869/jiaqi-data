@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T00:35:45.943316+08:00",
+ "updatedAt": "2026-11-06T00:39:18.141536+08:00",
  "academicYear": "2026-2027",
  "stageMeta": [
   {
@@ -195,7 +195,63 @@
    "name": "河北省",
    "abbr": "河北",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "1305",
+     "name": "保定市",
+     "policies": {}
+    },
+    {
+     "code": "1301",
+     "name": "唐山市",
+     "policies": {}
+    },
+    {
+     "code": "1309",
+     "name": "廊坊市",
+     "policies": {}
+    },
+    {
+     "code": "1306",
+     "name": "张家口市",
+     "policies": {}
+    },
+    {
+     "code": "1307",
+     "name": "承德市",
+     "policies": {}
+    },
+    {
+     "code": "1308",
+     "name": "沧州市",
+     "policies": {}
+    },
+    {
+     "code": "1300",
+     "name": "石家庄市",
+     "policies": {}
+    },
+    {
+     "code": "1302",
+     "name": "秦皇岛市",
+     "policies": {}
+    },
+    {
+     "code": "1310",
+     "name": "衡水市",
+     "policies": {}
+    },
+    {
+     "code": "1304",
+     "name": "邢台市",
+     "policies": {}
+    },
+    {
+     "code": "1303",
+     "name": "邯郸市",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。",
    "seasonal": {
@@ -217,7 +273,63 @@
    "name": "山西省",
    "abbr": "山西",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "1400",
+     "name": "太原市",
+     "policies": {}
+    },
+    {
+     "code": "1401",
+     "name": "大同市",
+     "policies": {}
+    },
+    {
+     "code": "1402",
+     "name": "阳泉市",
+     "policies": {}
+    },
+    {
+     "code": "1403",
+     "name": "长治市",
+     "policies": {}
+    },
+    {
+     "code": "1404",
+     "name": "晋城市",
+     "policies": {}
+    },
+    {
+     "code": "1405",
+     "name": "朔州市",
+     "policies": {}
+    },
+    {
+     "code": "1406",
+     "name": "晋中市",
+     "policies": {}
+    },
+    {
+     "code": "1407",
+     "name": "运城市",
+     "policies": {}
+    },
+    {
+     "code": "1408",
+     "name": "忻州市",
+     "policies": {}
+    },
+    {
+     "code": "1409",
+     "name": "临汾市",
+     "policies": {}
+    },
+    {
+     "code": "1410",
+     "name": "吕梁市",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -227,6 +339,11 @@
    "abbr": "内蒙古",
    "kind": "province",
    "cities": [
+    {
+     "code": "1500",
+     "name": "呼和浩特市",
+     "policies": {}
+    },
     {
      "code": "150200",
      "name": "包头市",
@@ -295,6 +412,56 @@
        }
       }
      }
+    },
+    {
+     "code": "1502",
+     "name": "乌海市",
+     "policies": {}
+    },
+    {
+     "code": "1503",
+     "name": "赤峰市",
+     "policies": {}
+    },
+    {
+     "code": "1504",
+     "name": "通辽市",
+     "policies": {}
+    },
+    {
+     "code": "1505",
+     "name": "鄂尔多斯市",
+     "policies": {}
+    },
+    {
+     "code": "1506",
+     "name": "呼伦贝尔市",
+     "policies": {}
+    },
+    {
+     "code": "1507",
+     "name": "巴彦淖尔市",
+     "policies": {}
+    },
+    {
+     "code": "1508",
+     "name": "乌兰察布市",
+     "policies": {}
+    },
+    {
+     "code": "1509",
+     "name": "兴安盟",
+     "policies": {}
+    },
+    {
+     "code": "1510",
+     "name": "锡林郭勒盟",
+     "policies": {}
+    },
+    {
+     "code": "1511",
+     "name": "阿拉善盟",
+     "policies": {}
     }
    ],
    "common": {
@@ -369,6 +536,71 @@
        }
       }
      }
+    },
+    {
+     "code": "2101",
+     "name": "大连市",
+     "policies": {}
+    },
+    {
+     "code": "2102",
+     "name": "鞍山市",
+     "policies": {}
+    },
+    {
+     "code": "2103",
+     "name": "抚顺市",
+     "policies": {}
+    },
+    {
+     "code": "2104",
+     "name": "本溪市",
+     "policies": {}
+    },
+    {
+     "code": "2105",
+     "name": "丹东市",
+     "policies": {}
+    },
+    {
+     "code": "2106",
+     "name": "锦州市",
+     "policies": {}
+    },
+    {
+     "code": "2107",
+     "name": "营口市",
+     "policies": {}
+    },
+    {
+     "code": "2108",
+     "name": "阜新市",
+     "policies": {}
+    },
+    {
+     "code": "2109",
+     "name": "辽阳市",
+     "policies": {}
+    },
+    {
+     "code": "2110",
+     "name": "盘锦市",
+     "policies": {}
+    },
+    {
+     "code": "2111",
+     "name": "铁岭市",
+     "policies": {}
+    },
+    {
+     "code": "2112",
+     "name": "朝阳市",
+     "policies": {}
+    },
+    {
+     "code": "2113",
+     "name": "葫芦岛市",
+     "policies": {}
     }
    ]
   },
@@ -377,7 +609,53 @@
    "name": "吉林省",
    "abbr": "吉林",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "2200",
+     "name": "长春市",
+     "policies": {}
+    },
+    {
+     "code": "2201",
+     "name": "吉林市",
+     "policies": {}
+    },
+    {
+     "code": "2202",
+     "name": "四平市",
+     "policies": {}
+    },
+    {
+     "code": "2203",
+     "name": "辽源市",
+     "policies": {}
+    },
+    {
+     "code": "2204",
+     "name": "通化市",
+     "policies": {}
+    },
+    {
+     "code": "2205",
+     "name": "白山市",
+     "policies": {}
+    },
+    {
+     "code": "2206",
+     "name": "松原市",
+     "policies": {}
+    },
+    {
+     "code": "2207",
+     "name": "白城市",
+     "policies": {}
+    },
+    {
+     "code": "2208",
+     "name": "延边朝鲜族自治州",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -386,7 +664,73 @@
    "name": "黑龙江省",
    "abbr": "黑龙江",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "2300",
+     "name": "哈尔滨市",
+     "policies": {}
+    },
+    {
+     "code": "2301",
+     "name": "齐齐哈尔市",
+     "policies": {}
+    },
+    {
+     "code": "2302",
+     "name": "鸡西市",
+     "policies": {}
+    },
+    {
+     "code": "2303",
+     "name": "鹤岗市",
+     "policies": {}
+    },
+    {
+     "code": "2304",
+     "name": "双鸭山市",
+     "policies": {}
+    },
+    {
+     "code": "2305",
+     "name": "大庆市",
+     "policies": {}
+    },
+    {
+     "code": "2306",
+     "name": "伊春市",
+     "policies": {}
+    },
+    {
+     "code": "2307",
+     "name": "佳木斯市",
+     "policies": {}
+    },
+    {
+     "code": "2308",
+     "name": "七台河市",
+     "policies": {}
+    },
+    {
+     "code": "2309",
+     "name": "牡丹江市",
+     "policies": {}
+    },
+    {
+     "code": "2310",
+     "name": "黑河市",
+     "policies": {}
+    },
+    {
+     "code": "2311",
+     "name": "绥化市",
+     "policies": {}
+    },
+    {
+     "code": "2312",
+     "name": "大兴安岭地区",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -562,6 +906,21 @@
      }
     },
     {
+     "code": "3201",
+     "name": "无锡市",
+     "policies": {}
+    },
+    {
+     "code": "3202",
+     "name": "徐州市",
+     "policies": {}
+    },
+    {
+     "code": "3203",
+     "name": "常州市",
+     "policies": {}
+    },
+    {
      "code": "320500",
      "name": "苏州市",
      "policies": {
@@ -629,6 +988,46 @@
        "note": "部分城市数据"
       }
      }
+    },
+    {
+     "code": "3205",
+     "name": "南通市",
+     "policies": {}
+    },
+    {
+     "code": "3206",
+     "name": "连云港市",
+     "policies": {}
+    },
+    {
+     "code": "3207",
+     "name": "淮安市",
+     "policies": {}
+    },
+    {
+     "code": "3208",
+     "name": "盐城市",
+     "policies": {}
+    },
+    {
+     "code": "3209",
+     "name": "扬州市",
+     "policies": {}
+    },
+    {
+     "code": "3210",
+     "name": "镇江市",
+     "policies": {}
+    },
+    {
+     "code": "3211",
+     "name": "泰州市",
+     "policies": {}
+    },
+    {
+     "code": "3212",
+     "name": "宿迁市",
+     "policies": {}
     }
    ],
    "common": {
@@ -643,22 +1042,22 @@
    "kind": "province",
    "cities": [
     {
-     "code": "33910",
+     "code": "3310",
      "name": "丽水市",
      "policies": {}
     },
     {
-     "code": "33909",
+     "code": "3309",
      "name": "台州市",
      "policies": {}
     },
     {
-     "code": "33904",
+     "code": "3303",
      "name": "嘉兴市",
      "policies": {}
     },
     {
-     "code": "33901",
+     "code": "3301",
      "name": "宁波市",
      "policies": {}
     },
@@ -726,32 +1125,32 @@
      }
     },
     {
-     "code": "33902",
+     "code": "3302",
      "name": "温州市",
      "policies": {}
     },
     {
-     "code": "33903",
+     "code": "3304",
      "name": "湖州市",
      "policies": {}
     },
     {
-     "code": "33905",
+     "code": "3305",
      "name": "绍兴市",
      "policies": {}
     },
     {
-     "code": "33908",
+     "code": "3308",
      "name": "舟山市",
      "policies": {}
     },
     {
-     "code": "33907",
+     "code": "3307",
      "name": "衢州市",
      "policies": {}
     },
     {
-     "code": "33906",
+     "code": "3306",
      "name": "金华市",
      "policies": {}
     }
@@ -855,6 +1254,11 @@
    "kind": "province",
    "cities": [
     {
+     "code": "3400",
+     "name": "合肥市",
+     "policies": {}
+    },
+    {
      "code": "340200",
      "name": "芜湖市",
      "policies": {
@@ -916,6 +1320,76 @@
        }
       }
      }
+    },
+    {
+     "code": "3402",
+     "name": "蚌埠市",
+     "policies": {}
+    },
+    {
+     "code": "3403",
+     "name": "淮南市",
+     "policies": {}
+    },
+    {
+     "code": "3404",
+     "name": "马鞍山市",
+     "policies": {}
+    },
+    {
+     "code": "3405",
+     "name": "淮北市",
+     "policies": {}
+    },
+    {
+     "code": "3406",
+     "name": "铜陵市",
+     "policies": {}
+    },
+    {
+     "code": "3407",
+     "name": "安庆市",
+     "policies": {}
+    },
+    {
+     "code": "3408",
+     "name": "黄山市",
+     "policies": {}
+    },
+    {
+     "code": "3409",
+     "name": "滁州市",
+     "policies": {}
+    },
+    {
+     "code": "3410",
+     "name": "阜阳市",
+     "policies": {}
+    },
+    {
+     "code": "3411",
+     "name": "宿州市",
+     "policies": {}
+    },
+    {
+     "code": "3412",
+     "name": "六安市",
+     "policies": {}
+    },
+    {
+     "code": "3413",
+     "name": "亳州市",
+     "policies": {}
+    },
+    {
+     "code": "3414",
+     "name": "池州市",
+     "policies": {}
+    },
+    {
+     "code": "3415",
+     "name": "宣城市",
+     "policies": {}
     }
    ]
   },
@@ -1050,6 +1524,41 @@
        }
       }
      }
+    },
+    {
+     "code": "3502",
+     "name": "莆田市",
+     "policies": {}
+    },
+    {
+     "code": "3503",
+     "name": "三明市",
+     "policies": {}
+    },
+    {
+     "code": "3504",
+     "name": "泉州市",
+     "policies": {}
+    },
+    {
+     "code": "3505",
+     "name": "漳州市",
+     "policies": {}
+    },
+    {
+     "code": "3506",
+     "name": "南平市",
+     "policies": {}
+    },
+    {
+     "code": "3507",
+     "name": "龙岩市",
+     "policies": {}
+    },
+    {
+     "code": "3508",
+     "name": "宁德市",
+     "policies": {}
     }
    ]
   },
@@ -1060,69 +1569,120 @@
    "kind": "province",
    "cities": [
     {
-     "code": "360000",
-     "name": "全省",
-     "policies": {
-      "primary": {
-       "scope": "小学",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "高中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-30",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
+     "code": "3600",
+     "name": "南昌市",
+     "policies": {}
+    },
+    {
+     "code": "3601",
+     "name": "景德镇市",
+     "policies": {}
+    },
+    {
+     "code": "3602",
+     "name": "萍乡市",
+     "policies": {}
+    },
+    {
+     "code": "3603",
+     "name": "九江市",
+     "policies": {}
+    },
+    {
+     "code": "3604",
+     "name": "新余市",
+     "policies": {}
+    },
+    {
+     "code": "3605",
+     "name": "鹰潭市",
+     "policies": {}
+    },
+    {
+     "code": "3606",
+     "name": "赣州市",
+     "policies": {}
+    },
+    {
+     "code": "3607",
+     "name": "吉安市",
+     "policies": {}
+    },
+    {
+     "code": "3608",
+     "name": "宜春市",
+     "policies": {}
+    },
+    {
+     "code": "3609",
+     "name": "抚州市",
+     "policies": {}
+    },
+    {
+     "code": "3610",
+     "name": "上饶市",
+     "policies": {}
+    }
+   ],
+   "commonPolicies": {
+    "primary": {
+     "scope": "小学",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-23",
+       "note": "省级汇总口径"
       }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
+     }
+    },
+    "junior": {
+     "scope": "初中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-23",
+       "note": "省级汇总口径"
+      }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
+     }
+    },
+    "senior": {
+     "scope": "高中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-30",
+       "note": "省级汇总口径"
+      }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
      }
     }
-   ]
+   }
   },
   {
    "code": "370000",
@@ -1131,27 +1691,37 @@
    "kind": "province",
    "cities": [
     {
-     "code": "37912",
+     "code": "3704",
+     "name": "东营市",
+     "policies": {}
+    },
+    {
+     "code": "3711",
      "name": "临沂市",
      "policies": {}
     },
     {
-     "code": "37909",
+     "code": "3709",
      "name": "威海市",
      "policies": {}
     },
     {
-     "code": "37906",
+     "code": "3712",
+     "name": "德州市",
+     "policies": {}
+    },
+    {
+     "code": "3710",
      "name": "日照市",
      "policies": {}
     },
     {
-     "code": "37901",
+     "code": "3703",
      "name": "枣庄市",
      "policies": {}
     },
     {
-     "code": "37910",
+     "code": "3708",
      "name": "泰安市",
      "policies": {}
     },
@@ -1219,37 +1789,42 @@
      }
     },
     {
-     "code": "37902",
+     "code": "3707",
      "name": "济宁市",
      "policies": {}
     },
     {
-     "code": "37908",
+     "code": "3702",
+     "name": "淄博市",
+     "policies": {}
+    },
+    {
+     "code": "3714",
      "name": "滨州市",
      "policies": {}
     },
     {
-     "code": "37904",
+     "code": "3706",
      "name": "潍坊市",
      "policies": {}
     },
     {
-     "code": "37905",
+     "code": "3705",
      "name": "烟台市",
      "policies": {}
     },
     {
-     "code": "37907",
+     "code": "3713",
      "name": "聊城市",
      "policies": {}
     },
     {
-     "code": "37911",
+     "code": "3715",
      "name": "菏泽市",
      "policies": {}
     },
     {
-     "code": "37903",
+     "code": "3701",
      "name": "青岛市",
      "policies": {}
     }
@@ -1397,7 +1972,98 @@
    "name": "河南省",
    "abbr": "河南",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "4100",
+     "name": "郑州市",
+     "policies": {}
+    },
+    {
+     "code": "4101",
+     "name": "开封市",
+     "policies": {}
+    },
+    {
+     "code": "4102",
+     "name": "洛阳市",
+     "policies": {}
+    },
+    {
+     "code": "4103",
+     "name": "平顶山市",
+     "policies": {}
+    },
+    {
+     "code": "4104",
+     "name": "安阳市",
+     "policies": {}
+    },
+    {
+     "code": "4105",
+     "name": "鹤壁市",
+     "policies": {}
+    },
+    {
+     "code": "4106",
+     "name": "新乡市",
+     "policies": {}
+    },
+    {
+     "code": "4107",
+     "name": "焦作市",
+     "policies": {}
+    },
+    {
+     "code": "4108",
+     "name": "濮阳市",
+     "policies": {}
+    },
+    {
+     "code": "4109",
+     "name": "许昌市",
+     "policies": {}
+    },
+    {
+     "code": "4110",
+     "name": "漯河市",
+     "policies": {}
+    },
+    {
+     "code": "4111",
+     "name": "三门峡市",
+     "policies": {}
+    },
+    {
+     "code": "4112",
+     "name": "南阳市",
+     "policies": {}
+    },
+    {
+     "code": "4113",
+     "name": "商丘市",
+     "policies": {}
+    },
+    {
+     "code": "4114",
+     "name": "信阳市",
+     "policies": {}
+    },
+    {
+     "code": "4115",
+     "name": "周口市",
+     "policies": {}
+    },
+    {
+     "code": "4116",
+     "name": "驻马店市",
+     "policies": {}
+    },
+    {
+     "code": "4117",
+     "name": "济源市",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -1469,6 +2135,66 @@
        }
       }
      }
+    },
+    {
+     "code": "4201",
+     "name": "黄石市",
+     "policies": {}
+    },
+    {
+     "code": "4202",
+     "name": "十堰市",
+     "policies": {}
+    },
+    {
+     "code": "4203",
+     "name": "宜昌市",
+     "policies": {}
+    },
+    {
+     "code": "4204",
+     "name": "襄阳市",
+     "policies": {}
+    },
+    {
+     "code": "4205",
+     "name": "鄂州市",
+     "policies": {}
+    },
+    {
+     "code": "4206",
+     "name": "荆门市",
+     "policies": {}
+    },
+    {
+     "code": "4207",
+     "name": "孝感市",
+     "policies": {}
+    },
+    {
+     "code": "4208",
+     "name": "荆州市",
+     "policies": {}
+    },
+    {
+     "code": "4209",
+     "name": "黄冈市",
+     "policies": {}
+    },
+    {
+     "code": "4210",
+     "name": "咸宁市",
+     "policies": {}
+    },
+    {
+     "code": "4211",
+     "name": "随州市",
+     "policies": {}
+    },
+    {
+     "code": "4212",
+     "name": "恩施土家族苗族自治州",
+     "policies": {}
     }
    ]
   },
@@ -1540,6 +2266,71 @@
        }
       }
      }
+    },
+    {
+     "code": "4301",
+     "name": "株洲市",
+     "policies": {}
+    },
+    {
+     "code": "4302",
+     "name": "湘潭市",
+     "policies": {}
+    },
+    {
+     "code": "4303",
+     "name": "衡阳市",
+     "policies": {}
+    },
+    {
+     "code": "4304",
+     "name": "邵阳市",
+     "policies": {}
+    },
+    {
+     "code": "4305",
+     "name": "岳阳市",
+     "policies": {}
+    },
+    {
+     "code": "4306",
+     "name": "常德市",
+     "policies": {}
+    },
+    {
+     "code": "4307",
+     "name": "张家界市",
+     "policies": {}
+    },
+    {
+     "code": "4308",
+     "name": "益阳市",
+     "policies": {}
+    },
+    {
+     "code": "4309",
+     "name": "郴州市",
+     "policies": {}
+    },
+    {
+     "code": "4310",
+     "name": "永州市",
+     "policies": {}
+    },
+    {
+     "code": "4311",
+     "name": "怀化市",
+     "policies": {}
+    },
+    {
+     "code": "4312",
+     "name": "娄底市",
+     "policies": {}
+    },
+    {
+     "code": "4313",
+     "name": "湘西土家族苗族自治州",
+     "policies": {}
     }
    ]
   },
@@ -3452,6 +4243,41 @@
    "kind": "province",
    "cities": [
     {
+     "code": "4500",
+     "name": "南宁市",
+     "policies": {}
+    },
+    {
+     "code": "4501",
+     "name": "柳州市",
+     "policies": {}
+    },
+    {
+     "code": "4502",
+     "name": "桂林市",
+     "policies": {}
+    },
+    {
+     "code": "4503",
+     "name": "梧州市",
+     "policies": {}
+    },
+    {
+     "code": "4504",
+     "name": "北海市",
+     "policies": {}
+    },
+    {
+     "code": "4505",
+     "name": "防城港市",
+     "policies": {}
+    },
+    {
+     "code": "4506",
+     "name": "钦州市",
+     "policies": {}
+    },
+    {
      "code": "450800",
      "name": "贵港市",
      "policies": {
@@ -3634,6 +4460,31 @@
        }
       }
      }
+    },
+    {
+     "code": "4509",
+     "name": "百色市",
+     "policies": {}
+    },
+    {
+     "code": "4510",
+     "name": "贺州市",
+     "policies": {}
+    },
+    {
+     "code": "4511",
+     "name": "河池市",
+     "policies": {}
+    },
+    {
+     "code": "4512",
+     "name": "来宾市",
+     "policies": {}
+    },
+    {
+     "code": "4513",
+     "name": "崇左市",
+     "policies": {}
     }
    ],
    "common": {
@@ -3648,69 +4499,155 @@
    "kind": "province",
    "cities": [
     {
-     "code": "460000",
-     "name": "全省",
-     "policies": {
-      "primary": {
-       "scope": "小学",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-16",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-16",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "高中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "note": "省级汇总口径"
-        }
-       ],
-       "source": {
-        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
-        "url": "https://m.sohu.com/a/1097240142_100934",
-        "published": "2026-11-04",
-        "grade": "aggregate",
-        "publisher": "校长传媒（汇总各地校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
+     "code": "4600",
+     "name": "海口市",
+     "policies": {}
+    },
+    {
+     "code": "4601",
+     "name": "三亚市",
+     "policies": {}
+    },
+    {
+     "code": "4602",
+     "name": "儋州市",
+     "policies": {}
+    },
+    {
+     "code": "4603",
+     "name": "五指山市",
+     "policies": {}
+    },
+    {
+     "code": "4604",
+     "name": "琼海市",
+     "policies": {}
+    },
+    {
+     "code": "4605",
+     "name": "文昌市",
+     "policies": {}
+    },
+    {
+     "code": "4606",
+     "name": "万宁市",
+     "policies": {}
+    },
+    {
+     "code": "4607",
+     "name": "东方市",
+     "policies": {}
+    },
+    {
+     "code": "4608",
+     "name": "定安县",
+     "policies": {}
+    },
+    {
+     "code": "4609",
+     "name": "屯昌县",
+     "policies": {}
+    },
+    {
+     "code": "4610",
+     "name": "澄迈县",
+     "policies": {}
+    },
+    {
+     "code": "4611",
+     "name": "临高县",
+     "policies": {}
+    },
+    {
+     "code": "4612",
+     "name": "白沙黎族自治县",
+     "policies": {}
+    },
+    {
+     "code": "4613",
+     "name": "昌江黎族自治县",
+     "policies": {}
+    },
+    {
+     "code": "4614",
+     "name": "乐东黎族自治县",
+     "policies": {}
+    },
+    {
+     "code": "4615",
+     "name": "陵水黎族自治县",
+     "policies": {}
+    },
+    {
+     "code": "4616",
+     "name": "保亭黎族苗族自治县",
+     "policies": {}
+    },
+    {
+     "code": "4617",
+     "name": "琼中黎族苗族自治县",
+     "policies": {}
+    }
+   ],
+   "commonPolicies": {
+    "primary": {
+     "scope": "小学",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-16",
+       "note": "省级汇总口径"
       }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
+     }
+    },
+    "junior": {
+     "scope": "初中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-16",
+       "note": "省级汇总口径"
+      }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
+     }
+    },
+    "senior": {
+     "scope": "高中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-23",
+       "note": "省级汇总口径"
+      }
+     ],
+     "source": {
+      "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+      "url": "https://m.sohu.com/a/1097240142_100934",
+      "published": "2026-11-04",
+      "grade": "aggregate",
+      "publisher": "校长传媒（汇总各地校历）",
+      "fetchedAt": "2026-11-05T22:30:00+08:00"
      }
     }
-   ]
+   }
   },
   {
    "code": "500000",
@@ -4079,6 +5016,153 @@
      }
     },
     {
+     "code": "510600",
+     "name": "德阳市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "5105",
+     "name": "绵阳市",
+     "policies": {}
+    },
+    {
+     "code": "5106",
+     "name": "广元市",
+     "policies": {}
+    },
+    {
+     "code": "5107",
+     "name": "遂宁市",
+     "policies": {}
+    },
+    {
+     "code": "511000",
+     "name": "内江市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
      "code": "511100",
      "name": "乐山市",
      "policies": {
@@ -4211,138 +5295,6 @@
      }
     },
     {
-     "code": "510600",
-     "name": "德阳市",
-     "policies": {
-      "primary": {
-       "scope": "小学（及幼儿园）",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "幼儿园参照义务教育"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "幼儿园参照义务教育"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "普通高中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "幼儿园参照义务教育"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      }
-     }
-    },
-    {
-     "code": "511000",
-     "name": "内江市",
-     "policies": {
-      "primary": {
-       "scope": "小学（及幼儿园）",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "结束日期按春季开学前一天推算"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "结束日期按春季开学前一天推算"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "普通高中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "end": "2027-02-21",
-         "endDerived": "结束日期按春季开学前一天推算"
-        }
-       ],
-       "source": {
-        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
-        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
-        "published": "2026-10-19",
-        "grade": "aggregate",
-        "publisher": "中韶网汇总各地教育局发布",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      }
-     }
-    },
-    {
      "code": "511400",
      "name": "眉山市",
      "policies": {
@@ -4407,6 +5359,11 @@
        }
       }
      }
+    },
+    {
+     "code": "5112",
+     "name": "宜宾市",
+     "policies": {}
     },
     {
      "code": "511600",
@@ -4475,6 +5432,11 @@
      }
     },
     {
+     "code": "5114",
+     "name": "达州市",
+     "policies": {}
+    },
+    {
      "code": "511800",
      "name": "雅安市",
      "policies": {
@@ -4539,6 +5501,31 @@
        }
       }
      }
+    },
+    {
+     "code": "5116",
+     "name": "巴中市",
+     "policies": {}
+    },
+    {
+     "code": "5117",
+     "name": "资阳市",
+     "policies": {}
+    },
+    {
+     "code": "5118",
+     "name": "阿坝藏族羌族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5119",
+     "name": "甘孜藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5120",
+     "name": "凉山彝族自治州",
+     "policies": {}
     },
     {
      "code": "513400",
@@ -4618,72 +5605,110 @@
    "kind": "province",
    "cities": [
     {
-     "code": "520100",
-     "name": "全省",
-     "policies": {
-      "primary": {
-       "scope": "小学 1-6 年级（幼儿园可参照并提前一周）",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
-        }
-       ],
-       "source": {
-        "title": "贵州大中小学寒假放假时间→",
-        "url": "http://news.sohu.com/a/1088144710_120437913",
-        "published": "2026-10-15",
-        "grade": "aggregate",
-        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中（初一初二 1/23，初三 1/30）",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-23",
-         "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
-        }
-       ],
-       "source": {
-        "title": "贵州大中小学寒假放假时间→",
-        "url": "http://news.sohu.com/a/1088144710_120437913",
-        "published": "2026-10-15",
-        "grade": "aggregate",
-        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "普通高中（含中职参照）",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-30",
-         "note": "高一/高二/高三同为 1/30；结束日期以当地教育局通知为准"
-        }
-       ],
-       "source": {
-        "title": "贵州大中小学寒假放假时间→",
-        "url": "http://news.sohu.com/a/1088144710_120437913",
-        "published": "2026-10-15",
-        "grade": "aggregate",
-        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      }
-     }
+     "code": "5200",
+     "name": "贵阳市",
+     "policies": {}
+    },
+    {
+     "code": "5201",
+     "name": "六盘水市",
+     "policies": {}
+    },
+    {
+     "code": "5202",
+     "name": "遵义市",
+     "policies": {}
+    },
+    {
+     "code": "5203",
+     "name": "安顺市",
+     "policies": {}
+    },
+    {
+     "code": "5204",
+     "name": "毕节市",
+     "policies": {}
+    },
+    {
+     "code": "5205",
+     "name": "铜仁市",
+     "policies": {}
+    },
+    {
+     "code": "5206",
+     "name": "黔西南布依族苗族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5207",
+     "name": "黔东南苗族侗族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5208",
+     "name": "黔南布依族苗族自治州",
+     "policies": {}
     }
    ],
    "common": {
     "springStart": "2027-02-22",
     "note": "省级口径，各市州可在范围内微调"
+   },
+   "commonPolicies": {
+    "primary": {
+     "scope": "小学 1-6 年级（幼儿园可参照并提前一周）",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-23",
+       "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
+      }
+     ],
+     "source": {
+      "title": "贵州大中小学寒假放假时间→",
+      "url": "http://news.sohu.com/a/1088144710_120437913",
+      "published": "2026-10-15",
+      "grade": "aggregate",
+      "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）"
+     }
+    },
+    "junior": {
+     "scope": "初中（初一初二 1/23，初三 1/30）",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-23",
+       "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
+      }
+     ],
+     "source": {
+      "title": "贵州大中小学寒假放假时间→",
+      "url": "http://news.sohu.com/a/1088144710_120437913",
+      "published": "2026-10-15",
+      "grade": "aggregate",
+      "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）"
+     }
+    },
+    "senior": {
+     "scope": "普通高中（含中职参照）",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-30",
+       "note": "高一/高二/高三同为 1/30；结束日期以当地教育局通知为准"
+      }
+     ],
+     "source": {
+      "title": "贵州大中小学寒假放假时间→",
+      "url": "http://news.sohu.com/a/1088144710_120437913",
+      "published": "2026-10-15",
+      "grade": "aggregate",
+      "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）"
+     }
+    }
    }
   },
   {
@@ -4693,72 +5718,145 @@
    "kind": "province",
    "cities": [
     {
-     "code": "530100",
-     "name": "全省",
-     "policies": {
-      "primary": {
-       "scope": "小学",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-16",
-         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
-        }
-       ],
-       "source": {
-        "title": "放假通知，2027中小学寒假放假时间确定了",
-        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
-        "published": "2026-09-25",
-        "grade": "aggregate",
-        "publisher": "凯旋学长（汇总各地教育部门校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "junior": {
-       "scope": "初中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-16",
-         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
-        }
-       ],
-       "source": {
-        "title": "放假通知，2027中小学寒假放假时间确定了",
-        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
-        "published": "2026-09-25",
-        "grade": "aggregate",
-        "publisher": "凯旋学长（汇总各地教育部门校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       }
-      },
-      "senior": {
-       "scope": "高中",
-       "holidays": [
-        {
-         "type": "winter",
-         "label": "寒假",
-         "start": "2027-01-16",
-         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
-        }
-       ],
-       "source": {
-        "title": "放假通知，2027中小学寒假放假时间确定了",
-        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
-        "published": "2026-09-25",
-        "grade": "aggregate",
-        "publisher": "凯旋学长（汇总各地教育部门校历）",
-        "fetchedAt": "2026-11-05T22:30:00+08:00"
-       },
-       "note": "高中通常比义务教育晚约一周"
-      }
-     }
+     "code": "5300",
+     "name": "昆明市",
+     "policies": {}
+    },
+    {
+     "code": "5301",
+     "name": "曲靖市",
+     "policies": {}
+    },
+    {
+     "code": "5302",
+     "name": "玉溪市",
+     "policies": {}
+    },
+    {
+     "code": "5303",
+     "name": "保山市",
+     "policies": {}
+    },
+    {
+     "code": "5304",
+     "name": "昭通市",
+     "policies": {}
+    },
+    {
+     "code": "5305",
+     "name": "丽江市",
+     "policies": {}
+    },
+    {
+     "code": "5306",
+     "name": "普洱市",
+     "policies": {}
+    },
+    {
+     "code": "5307",
+     "name": "临沧市",
+     "policies": {}
+    },
+    {
+     "code": "5308",
+     "name": "楚雄彝族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5309",
+     "name": "红河哈尼族彝族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5310",
+     "name": "文山壮族苗族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5311",
+     "name": "西双版纳傣族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5312",
+     "name": "大理白族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5313",
+     "name": "德宏傣族景颇族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5314",
+     "name": "怒江傈僳族自治州",
+     "policies": {}
+    },
+    {
+     "code": "5315",
+     "name": "迪庆藏族自治州",
+     "policies": {}
     }
    ],
    "common": {
     "note": "省级口径为「不晚于 1 月 16 日」，精确日期需看各州市通知"
+   },
+   "commonPolicies": {
+    "primary": {
+     "scope": "小学",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-16",
+       "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+      }
+     ],
+     "source": {
+      "title": "放假通知，2027中小学寒假放假时间确定了",
+      "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+      "published": "2026-09-25",
+      "grade": "aggregate",
+      "publisher": "凯旋学长（汇总各地教育部门校历）"
+     }
+    },
+    "junior": {
+     "scope": "初中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-16",
+       "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+      }
+     ],
+     "source": {
+      "title": "放假通知，2027中小学寒假放假时间确定了",
+      "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+      "published": "2026-09-25",
+      "grade": "aggregate",
+      "publisher": "凯旋学长（汇总各地教育部门校历）"
+     }
+    },
+    "senior": {
+     "scope": "高中",
+     "holidays": [
+      {
+       "type": "winter",
+       "label": "寒假",
+       "start": "2027-01-16",
+       "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+      }
+     ],
+     "source": {
+      "title": "放假通知，2027中小学寒假放假时间确定了",
+      "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+      "published": "2026-09-25",
+      "grade": "aggregate",
+      "publisher": "凯旋学长（汇总各地教育部门校历）"
+     },
+     "note": "高中通常比义务教育晚约一周"
+    }
    }
   },
   {
@@ -4766,7 +5864,43 @@
    "name": "西藏自治区",
    "abbr": "西藏",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "5400",
+     "name": "拉萨市",
+     "policies": {}
+    },
+    {
+     "code": "5401",
+     "name": "日喀则市",
+     "policies": {}
+    },
+    {
+     "code": "5402",
+     "name": "昌都市",
+     "policies": {}
+    },
+    {
+     "code": "5403",
+     "name": "林芝市",
+     "policies": {}
+    },
+    {
+     "code": "5404",
+     "name": "山南市",
+     "policies": {}
+    },
+    {
+     "code": "5405",
+     "name": "那曲市",
+     "policies": {}
+    },
+    {
+     "code": "5406",
+     "name": "阿里地区",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -4838,6 +5972,51 @@
        }
       }
      }
+    },
+    {
+     "code": "6101",
+     "name": "铜川市",
+     "policies": {}
+    },
+    {
+     "code": "6102",
+     "name": "宝鸡市",
+     "policies": {}
+    },
+    {
+     "code": "6103",
+     "name": "咸阳市",
+     "policies": {}
+    },
+    {
+     "code": "6104",
+     "name": "渭南市",
+     "policies": {}
+    },
+    {
+     "code": "6105",
+     "name": "延安市",
+     "policies": {}
+    },
+    {
+     "code": "6106",
+     "name": "汉中市",
+     "policies": {}
+    },
+    {
+     "code": "6107",
+     "name": "榆林市",
+     "policies": {}
+    },
+    {
+     "code": "6108",
+     "name": "安康市",
+     "policies": {}
+    },
+    {
+     "code": "6109",
+     "name": "商洛市",
+     "policies": {}
     }
    ]
   },
@@ -4846,7 +6025,78 @@
    "name": "甘肃省",
    "abbr": "甘肃",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "6200",
+     "name": "兰州市",
+     "policies": {}
+    },
+    {
+     "code": "6201",
+     "name": "嘉峪关市",
+     "policies": {}
+    },
+    {
+     "code": "6202",
+     "name": "金昌市",
+     "policies": {}
+    },
+    {
+     "code": "6203",
+     "name": "白银市",
+     "policies": {}
+    },
+    {
+     "code": "6204",
+     "name": "天水市",
+     "policies": {}
+    },
+    {
+     "code": "6205",
+     "name": "武威市",
+     "policies": {}
+    },
+    {
+     "code": "6206",
+     "name": "张掖市",
+     "policies": {}
+    },
+    {
+     "code": "6207",
+     "name": "平凉市",
+     "policies": {}
+    },
+    {
+     "code": "6208",
+     "name": "酒泉市",
+     "policies": {}
+    },
+    {
+     "code": "6209",
+     "name": "庆阳市",
+     "policies": {}
+    },
+    {
+     "code": "6210",
+     "name": "定西市",
+     "policies": {}
+    },
+    {
+     "code": "6211",
+     "name": "陇南市",
+     "policies": {}
+    },
+    {
+     "code": "6212",
+     "name": "临夏回族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6213",
+     "name": "甘南藏族自治州",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -4855,7 +6105,48 @@
    "name": "青海省",
    "abbr": "青海",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "6300",
+     "name": "西宁市",
+     "policies": {}
+    },
+    {
+     "code": "6301",
+     "name": "海东市",
+     "policies": {}
+    },
+    {
+     "code": "6302",
+     "name": "海北藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6303",
+     "name": "黄南藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6304",
+     "name": "海南藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6305",
+     "name": "果洛藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6306",
+     "name": "玉树藏族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6307",
+     "name": "海西蒙古族藏族自治州",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -4864,7 +6155,33 @@
    "name": "宁夏回族自治区",
    "abbr": "宁夏回族",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "6400",
+     "name": "银川市",
+     "policies": {}
+    },
+    {
+     "code": "6401",
+     "name": "石嘴山市",
+     "policies": {}
+    },
+    {
+     "code": "6402",
+     "name": "吴忠市",
+     "policies": {}
+    },
+    {
+     "code": "6403",
+     "name": "固原市",
+     "policies": {}
+    },
+    {
+     "code": "6404",
+     "name": "中卫市",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   },
@@ -4873,7 +6190,78 @@
    "name": "新疆维吾尔自治区",
    "abbr": "新疆维吾尔",
    "kind": "province",
-   "cities": [],
+   "cities": [
+    {
+     "code": "6500",
+     "name": "乌鲁木齐市",
+     "policies": {}
+    },
+    {
+     "code": "6501",
+     "name": "克拉玛依市",
+     "policies": {}
+    },
+    {
+     "code": "6502",
+     "name": "吐鲁番市",
+     "policies": {}
+    },
+    {
+     "code": "6503",
+     "name": "哈密市",
+     "policies": {}
+    },
+    {
+     "code": "6504",
+     "name": "昌吉回族自治州",
+     "policies": {}
+    },
+    {
+     "code": "6505",
+     "name": "博尔塔拉蒙古自治州",
+     "policies": {}
+    },
+    {
+     "code": "6506",
+     "name": "巴音郭楞蒙古自治州",
+     "policies": {}
+    },
+    {
+     "code": "6507",
+     "name": "阿克苏地区",
+     "policies": {}
+    },
+    {
+     "code": "6508",
+     "name": "克孜勒苏柯尔克孜自治州",
+     "policies": {}
+    },
+    {
+     "code": "6509",
+     "name": "喀什地区",
+     "policies": {}
+    },
+    {
+     "code": "6510",
+     "name": "和田地区",
+     "policies": {}
+    },
+    {
+     "code": "6511",
+     "name": "伊犁哈萨克自治州",
+     "policies": {}
+    },
+    {
+     "code": "6512",
+     "name": "塔城地区",
+     "policies": {}
+    },
+    {
+     "code": "6513",
+     "name": "阿勒泰地区",
+     "policies": {}
+    }
+   ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
    "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
   }
@@ -5291,51 +6679,10 @@
  "coverage": {
   "total": 31,
   "coveredCount": 31,
-  "withDataCount": 21,
-  "pendingCount": 10,
+  "withDataCount": 31,
+  "pendingCount": 0,
   "missingCount": 0,
-  "pending": [
-   {
-    "code": "130000",
-    "name": "河北省"
-   },
-   {
-    "code": "140000",
-    "name": "山西省"
-   },
-   {
-    "code": "220000",
-    "name": "吉林省"
-   },
-   {
-    "code": "230000",
-    "name": "黑龙江省"
-   },
-   {
-    "code": "410000",
-    "name": "河南省"
-   },
-   {
-    "code": "540000",
-    "name": "西藏自治区"
-   },
-   {
-    "code": "620000",
-    "name": "甘肃省"
-   },
-   {
-    "code": "630000",
-    "name": "青海省"
-   },
-   {
-    "code": "640000",
-    "name": "宁夏回族自治区"
-   },
-   {
-    "code": "650000",
-    "name": "新疆维吾尔自治区"
-   }
-  ],
+  "pending": [],
   "missing": []
  },
  "weekendRule": {
