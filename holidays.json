@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-06T00:39:18.141536+08:00",
+ "updatedAt": "2026-11-06T00:42:57.299140+08:00",
  "academicYear": "2026-2027",
  "stageMeta": [
   {
@@ -199,57 +199,134 @@
     {
      "code": "1305",
      "name": "保定市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-31",
+      "senior": "2026-02-09",
+      "springStart": "2026-03-04",
+      "note": ""
+     }
     },
     {
      "code": "1301",
      "name": "唐山市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-24",
+      "senior": "2026-02-07",
+      "springStart": "2026-03-01",
+      "note": "小学 1/24，初中 1/31，高中 2/7"
+     }
     },
     {
      "code": "1309",
      "name": "廊坊市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-26",
+      "senior": "2026-02-02",
+      "springStart": "2026-03-04",
+      "note": ""
+     }
     },
     {
      "code": "1306",
      "name": "张家口市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-24",
+      "senior": "2026-01-31",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1307",
      "name": "承德市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-24",
+      "senior": "2026-02-07",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1308",
      "name": "沧州市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-02-03",
+      "senior": "2026-02-10",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1300",
      "name": "石家庄市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-02-04",
+      "senior": "2026-02-11",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1302",
      "name": "秦皇岛市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-01-24",
+      "senior": "2026-01-31",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1310",
      "name": "衡水市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-02-06",
+      "senior": "2026-02-09",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1304",
      "name": "邢台市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-02-03",
+      "senior": "2026-02-10",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     },
     {
      "code": "1303",
      "name": "邯郸市",
-     "policies": {}
+     "policies": {},
+     "history": {
+      "year": 2026,
+      "primary": "2026-02-03",
+      "senior": "2026-02-10",
+      "springStart": "2026-03-05",
+      "note": ""
+     }
     }
    ],
    "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到正式文件。以河北为例：2025-2026 学年的寒假安排是 2026 年 1 月下旬才陆续公布的，今年大概率也是这个节奏——不是查不到，是还没到发布的时候。",
@@ -266,6 +343,13 @@
      "grade": "media",
      "publisher": "央广网（转新浪新闻）"
     }
+   },
+   "historySource": {
+    "title": "河北2026年中小学寒假时间：14个地市安排一览！",
+    "url": "http://www.zzwhb.com/cjwt/6140.html",
+    "published": "2026-01-27",
+    "grade": "aggregate",
+    "publisher": "河北初中升学网（汇总各地市公布）"
    }
   },
   {
