@@ -1,0 +1,4983 @@
+{
+ "schemaVersion": 1,
+ "updatedAt": "2026-11-05T23:30:00+08:00",
+ "academicYear": "2026-2027",
+ "stageMeta": [
+  {
+   "key": "primary",
+   "label": "小学"
+  },
+  {
+   "key": "junior",
+   "label": "初中"
+  },
+  {
+   "key": "senior",
+   "label": "高中"
+  },
+  {
+   "key": "university",
+   "label": "大学"
+  }
+ ],
+ "regions": [
+  {
+   "code": "110000",
+   "name": "北京市",
+   "abbr": "北京",
+   "kind": "municipality",
+   "cities": [
+    {
+     "code": "110100",
+     "name": "北京市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-18",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-06",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "北京市教育委员会关于印发2026—2027学年度各级各类学校校历的通知",
+        "url": "https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202604/t20260417_4588623.html",
+        "docNo": "京教办〔2026〕4号",
+        "published": "2026-04-17",
+        "grade": "official",
+        "publisher": "北京市教育委员会",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-18",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-06",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "北京市教育委员会关于印发2026—2027学年度各级各类学校校历的通知",
+        "url": "https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202604/t20260417_4588623.html",
+        "docNo": "京教办〔2026〕4号",
+        "published": "2026-04-17",
+        "grade": "official",
+        "publisher": "北京市教育委员会",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "非义务教育阶段（高中/中职）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-13",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "北京市教育委员会关于印发2026—2027学年度各级各类学校校历的通知",
+        "url": "https://jw.beijing.gov.cn/xxgk/2024zcwj/2024qtwj/202604/t20260417_4588623.html",
+        "docNo": "京教办〔2026〕4号",
+        "published": "2026-04-17",
+        "grade": "official",
+        "publisher": "北京市教育委员会",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "120000",
+   "name": "天津市",
+   "abbr": "天津",
+   "kind": "municipality",
+   "cities": [
+    {
+     "code": "120100",
+     "name": "天津市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-19",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-19",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-26",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "130000",
+   "name": "河北省",
+   "abbr": "河北",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "140000",
+   "name": "山西省",
+   "abbr": "山西",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "150000",
+   "name": "内蒙古自治区",
+   "abbr": "内蒙古",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "150200",
+     "name": "包头市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "end": "2027-02-28",
+         "endDerived": false,
+         "note": "共 6 周零 1 天"
+        }
+       ],
+       "source": {
+        "title": "包头市中小学寒假时间公布（市教育局答复）",
+        "url": "https://iapp.baotounews.com.cn/share/YS02ODktNDUzMjk5ODU.html",
+        "published": "2026-10-20",
+        "grade": "media",
+        "publisher": "i包头 · 包头市网络群众工作中心 / 市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "end": "2027-02-28",
+         "endDerived": false,
+         "note": "共 6 周零 1 天"
+        }
+       ],
+       "source": {
+        "title": "包头市中小学寒假时间公布（市教育局答复）",
+        "url": "https://iapp.baotounews.com.cn/share/YS02ODktNDUzMjk5ODU.html",
+        "published": "2026-10-20",
+        "grade": "media",
+        "publisher": "i包头 · 包头市网络群众工作中心 / 市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中、中等职业学校",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-28",
+         "endDerived": false,
+         "note": "共 5 周零 1 天"
+        }
+       ],
+       "source": {
+        "title": "包头市中小学寒假时间公布（市教育局答复）",
+        "url": "https://iapp.baotounews.com.cn/share/YS02ODktNDUzMjk5ODU.html",
+        "published": "2026-10-20",
+        "grade": "media",
+        "publisher": "i包头 · 包头市网络群众工作中心 / 市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ],
+   "common": {
+    "note": "目前只有包头市公布；自治区内其余盟市以当地教育局通知为准"
+   }
+  },
+  {
+   "code": "210000",
+   "name": "辽宁省",
+   "abbr": "辽宁",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "210100",
+     "name": "沈阳市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-15",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-15",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-22",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "220000",
+   "name": "吉林省",
+   "abbr": "吉林",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "230000",
+   "name": "黑龙江省",
+   "abbr": "黑龙江",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "310000",
+   "name": "上海市",
+   "abbr": "上海",
+   "kind": "municipality",
+   "cities": [
+    {
+     "code": "310100",
+     "name": "上海市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-01",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "上海市中小学2026学年校历（静安区转发解读）",
+        "url": "https://www.shanghai.gov.cn/nw17239/20260901/336cfe2355aa4d6ca3315852100674bc.html",
+        "published": "2026-09-01",
+        "grade": "media",
+        "publisher": "上海市静安区人民政府（引上海市教委校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-01",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "上海市中小学2026学年校历（静安区转发解读）",
+        "url": "https://www.shanghai.gov.cn/nw17239/20260901/336cfe2355aa4d6ca3315852100674bc.html",
+        "published": "2026-09-01",
+        "grade": "media",
+        "publisher": "上海市静安区人民政府（引上海市教委校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-01",
+         "end": "2027-08-31",
+         "endDerived": false
+        }
+       ],
+       "source": {
+        "title": "上海市中小学2026学年校历（静安区转发解读）",
+        "url": "https://www.shanghai.gov.cn/nw17239/20260901/336cfe2355aa4d6ca3315852100674bc.html",
+        "published": "2026-09-01",
+        "grade": "media",
+        "publisher": "上海市静安区人民政府（引上海市教委校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "全市中小学统一按市教委校历执行"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "320000",
+   "name": "江苏省",
+   "abbr": "江苏",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "320100",
+     "name": "南京市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      }
+     }
+    },
+    {
+     "code": "320500",
+     "name": "苏州市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "end": "2027-02-21",
+         "endDerived": "来源仅覆盖南京、苏州两市校历；结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "江苏中小学开学时间确定（引江苏省教育厅通知及南京、苏州校历）",
+        "url": "https://news.qq.com/rain/a/20260823A085YC00",
+        "published": "2026-08-23",
+        "grade": "media",
+        "publisher": "江苏警方",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "部分城市数据"
+      }
+     }
+    }
+   ],
+   "common": {
+    "springStart": "2027-02-27",
+    "note": "南京、苏州校历于 2027-01-26 结束学期"
+   }
+  },
+  {
+   "code": "330000",
+   "name": "浙江省",
+   "abbr": "浙江",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "330100",
+     "name": "杭州市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "杭州市中小学统一 1/30 放假（全国最晚之一）"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "杭州市中小学统一 1/30 放假（全国最晚之一）"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "杭州市中小学统一 1/30 放假（全国最晚之一）"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "340000",
+   "name": "安徽省",
+   "abbr": "安徽",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "340200",
+     "name": "芜湖市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "note": "高三年级 2027-02-15 上课"
+        }
+       ],
+       "source": {
+        "title": "芜湖市中小学寒假时间定了！（据芜湖市教育局教学周次表）",
+        "url": "https://news.qq.com/rain/a/20261105A09E6C00",
+        "published": "2026-11-05",
+        "grade": "media",
+        "publisher": "大皖新闻转载芜湖发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-27",
+         "note": "高三年级 2027-02-15 上课"
+        }
+       ],
+       "source": {
+        "title": "芜湖市中小学寒假时间定了！（据芜湖市教育局教学周次表）",
+        "url": "https://news.qq.com/rain/a/20261105A09E6C00",
+        "published": "2026-11-05",
+        "grade": "media",
+        "publisher": "大皖新闻转载芜湖发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "高三年级 2027-02-15 上课"
+        }
+       ],
+       "source": {
+        "title": "芜湖市中小学寒假时间定了！（据芜湖市教育局教学周次表）",
+        "url": "https://news.qq.com/rain/a/20261105A09E6C00",
+        "published": "2026-11-05",
+        "grade": "media",
+        "publisher": "大皖新闻转载芜湖发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "350000",
+   "name": "福建省",
+   "abbr": "福建",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "350100",
+     "name": "福州市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-28",
+         "note": "高中、中职 1/30 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-28",
+         "note": "高中、中职 1/30 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "高中、中职 1/30 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "350200",
+     "name": "厦门市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-28",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-28",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "360000",
+   "name": "江西省",
+   "abbr": "江西",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "360000",
+     "name": "全省",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "370000",
+   "name": "山东省",
+   "abbr": "山东",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "370100",
+     "name": "济南市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "410000",
+   "name": "河南省",
+   "abbr": "河南",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "420000",
+   "name": "湖北省",
+   "abbr": "湖北",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "420100",
+     "name": "武汉市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "中小学、幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "中小学、幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "中小学、幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "430000",
+   "name": "湖南省",
+   "abbr": "湖南",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "430100",
+     "name": "长沙市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "note": "长沙未分学段单列"
+        }
+       ],
+       "source": {
+        "title": "2027中小学寒假时间出炉！多地寒假变长？",
+        "url": "https://www.sohu.com/a/1096671272_120653457",
+        "published": "2026-11-03",
+        "grade": "aggregate",
+        "publisher": "中考升学直通车（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "note": "长沙未分学段单列"
+        }
+       ],
+       "source": {
+        "title": "2027中小学寒假时间出炉！多地寒假变长？",
+        "url": "https://www.sohu.com/a/1096671272_120653457",
+        "published": "2026-11-03",
+        "grade": "aggregate",
+        "publisher": "中考升学直通车（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "note": "长沙未分学段单列"
+        }
+       ],
+       "source": {
+        "title": "2027中小学寒假时间出炉！多地寒假变长？",
+        "url": "https://www.sohu.com/a/1096671272_120653457",
+        "published": "2026-11-03",
+        "grade": "aggregate",
+        "publisher": "中考升学直通车（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "440000",
+   "name": "广东省",
+   "abbr": "广东",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "440100",
+     "name": "广州市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440300",
+     "name": "深圳市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440400",
+     "name": "珠海市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-12",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-12",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-02-01",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-19",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440500",
+     "name": "汕头市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440600",
+     "name": "佛山市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440200",
+     "name": "韶关市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441600",
+     "name": "河源市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441400",
+     "name": "梅州市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441300",
+     "name": "惠州市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441500",
+     "name": "汕尾市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441900",
+     "name": "东莞市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "442000",
+     "name": "中山市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440700",
+     "name": "江门市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441700",
+     "name": "阳江市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440800",
+     "name": "湛江市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-16",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "440900",
+     "name": "茂名市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441200",
+     "name": "肇庆市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "441800",
+     "name": "清远市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "445100",
+     "name": "潮州市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-18",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "445200",
+     "name": "揭阳市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "445300",
+     "name": "云浮市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育阶段（小学）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "义务教育阶段（初中）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "结束日期按全省春季开学 2/22 前一天倒推"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-17",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "广东中小学新学年开学、寒假、暑假时间定了（来源：广东教育传媒）",
+        "url": "https://m.sohu.com/a/1066151298_132336/",
+        "published": "2026-08-22",
+        "grade": "media",
+        "publisher": "新快报转载广东教育传媒",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ],
+   "common": {
+    "springStart": "2027-02-22",
+    "autumnStart": "2026-09-01"
+   }
+  },
+  {
+   "code": "450000",
+   "name": "广西壮族自治区",
+   "abbr": "广西",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "450800",
+     "name": "贵港市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育一至八年级",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "2/22 开始上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-04",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "贵港市教育局关于印发全市中小学2026-2027学年度校历的通知",
+        "url": "http://gxgg.wenming.cn/wmxy/202607/t20260702_9287421.html",
+        "published": "2026-07-02",
+        "grade": "official",
+        "publisher": "贵港市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中（七年级至八年级；九年级另计）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-24",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "2/22 开始上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-04",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "贵港市教育局关于印发全市中小学2026-2027学年度校历的通知",
+        "url": "http://gxgg.wenming.cn/wmxy/202607/t20260702_9287421.html",
+        "published": "2026-07-02",
+        "grade": "official",
+        "publisher": "贵港市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "九年级 2027-01-31 放假"
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-31",
+         "end": "2027-02-21",
+         "endDerived": true,
+         "note": "2/22 开始上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-11",
+         "end": "2027-08-31",
+         "endDerived": true,
+         "note": "高三年级暑假自高考结束后开始"
+        }
+       ],
+       "source": {
+        "title": "贵港市教育局关于印发全市中小学2026-2027学年度校历的通知",
+        "url": "http://gxgg.wenming.cn/wmxy/202607/t20260702_9287421.html",
+        "published": "2026-07-02",
+        "grade": "official",
+        "publisher": "贵港市教育局",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "450900",
+     "name": "玉林市",
+     "policies": {
+      "primary": {
+       "scope": "义务教育一至八年级",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-20",
+         "endDerived": true,
+         "note": "2/21 报到，2/22 上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-03",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "玉林市2026—2027学年校历出炉",
+        "url": "https://www.gxylnews.com/xwk/jy/197001/t19700121_953578.html",
+        "published": "2026-06-26",
+        "grade": "media",
+        "publisher": "玉林日报（引玉林市教育局校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中（一至八年级口径）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-20",
+         "endDerived": true,
+         "note": "2/21 报到，2/22 上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-03",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "玉林市2026—2027学年校历出炉",
+        "url": "https://www.gxylnews.com/xwk/jy/197001/t19700121_953578.html",
+        "published": "2026-06-26",
+        "grade": "media",
+        "publisher": "玉林日报（引玉林市教育局校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "九年级 2027-01-30 放假"
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-20",
+         "endDerived": true,
+         "note": "2/21 报到，2/22 上课"
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-10",
+         "end": "2027-08-31",
+         "endDerived": true,
+         "note": "九年级/高三以中考、高考结束时间为准"
+        }
+       ],
+       "source": {
+        "title": "玉林市2026—2027学年校历出炉",
+        "url": "https://www.gxylnews.com/xwk/jy/197001/t19700121_953578.html",
+        "published": "2026-06-26",
+        "grade": "media",
+        "publisher": "玉林日报（引玉林市教育局校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ],
+   "common": {
+    "springStart": "2027-02-22",
+    "note": "贵港、玉林两市校历；其余地市以当地教育局通知为准"
+   }
+  },
+  {
+   "code": "460000",
+   "name": "海南省",
+   "abbr": "海南",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "460000",
+     "name": "全省",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "省级汇总口径"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "500000",
+   "name": "重庆市",
+   "abbr": "重庆",
+   "kind": "municipality",
+   "cities": [
+    {
+     "code": "500100",
+     "name": "重庆市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-19",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-03",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "重庆中小学寒假时间定了！",
+        "url": "https://www.cq.gov.cn/ywdt/bmts/202610/t20261013_16225627.html",
+        "published": "2026-10-13",
+        "grade": "media",
+        "publisher": "重庆市人民政府网",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "幼儿园可参照执行，市里不统一"
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-19",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-03",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "重庆中小学寒假时间定了！",
+        "url": "https://www.cq.gov.cn/ywdt/bmts/202610/t20261013_16225627.html",
+        "published": "2026-10-13",
+        "grade": "media",
+        "publisher": "重庆市人民政府网",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中（含中职）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-26",
+         "end": "2027-02-21",
+         "endDerived": false
+        },
+        {
+         "type": "summer",
+         "label": "暑假",
+         "start": "2027-07-03",
+         "end": "2027-08-31",
+         "endDerived": true
+        }
+       ],
+       "source": {
+        "title": "重庆中小学寒假时间定了！",
+        "url": "https://www.cq.gov.cn/ywdt/bmts/202610/t20261013_16225627.html",
+        "published": "2026-10-13",
+        "grade": "media",
+        "publisher": "重庆市人民政府网",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "510000",
+   "name": "四川省",
+   "abbr": "四川",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "510100",
+     "name": "成都市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园 1/23 起"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "510300",
+     "name": "自贡市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "end": "2027-02-21",
+         "endDerived": "小学/幼儿园 1/16，中学 1/23"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "end": "2027-02-21",
+         "endDerived": "小学/幼儿园 1/16，中学 1/23"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "小学/幼儿园 1/16，中学 1/23"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "510400",
+     "name": "攀枝花市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "全县中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "全县中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "全县中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "510500",
+     "name": "泸州市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-26",
+         "end": "2027-02-21",
+         "endDerived": "全市中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-26",
+         "end": "2027-02-21",
+         "endDerived": "全市中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-26",
+         "end": "2027-02-21",
+         "endDerived": "全市中小学统一"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511100",
+     "name": "乐山市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511300",
+     "name": "南充市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "510600",
+     "name": "德阳市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "幼儿园参照义务教育"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511000",
+     "name": "内江市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511400",
+     "name": "眉山市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511600",
+     "name": "广安市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "511800",
+     "name": "雅安市",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "end": "2027-02-21",
+         "endDerived": "结束日期按春季开学前一天推算"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    },
+    {
+     "code": "513400",
+     "name": "凉山州",
+     "policies": {
+      "primary": {
+       "scope": "小学（及幼儿园）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": "义务教育与高中同日"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": "义务教育与高中同日"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-25",
+         "end": "2027-02-21",
+         "endDerived": "义务教育与高中同日"
+        }
+       ],
+       "source": {
+        "title": "四川各地中小学寒假放假时间（据各市州教育局官微）",
+        "url": "http://news.shaocn.com/guonei/2026/1019/113658.html",
+        "published": "2026-10-19",
+        "grade": "aggregate",
+        "publisher": "中韶网汇总各地教育局发布",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ],
+   "common": {
+    "springStart": "2027-02-22"
+   }
+  },
+  {
+   "code": "520000",
+   "name": "贵州省",
+   "abbr": "贵州",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "520100",
+     "name": "全省",
+     "policies": {
+      "primary": {
+       "scope": "小学 1-6 年级（幼儿园可参照并提前一周）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "贵州大中小学寒假放假时间→",
+        "url": "http://news.sohu.com/a/1088144710_120437913",
+        "published": "2026-10-15",
+        "grade": "aggregate",
+        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中（初一初二 1/23，初三 1/30）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-23",
+         "note": "初三单独推迟到 2027-01-30；结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "贵州大中小学寒假放假时间→",
+        "url": "http://news.sohu.com/a/1088144710_120437913",
+        "published": "2026-10-15",
+        "grade": "aggregate",
+        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "普通高中（含中职参照）",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-30",
+         "note": "高一/高二/高三同为 1/30；结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "贵州大中小学寒假放假时间→",
+        "url": "http://news.sohu.com/a/1088144710_120437913",
+        "published": "2026-10-15",
+        "grade": "aggregate",
+        "publisher": "知知贵阳（据云上毕节、贵阳本地宝、贵州各高校官网）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ],
+   "common": {
+    "springStart": "2027-02-22",
+    "note": "省级口径，各市州可在范围内微调"
+   }
+  },
+  {
+   "code": "530000",
+   "name": "云南省",
+   "abbr": "云南",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "530100",
+     "name": "全省",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+        }
+       ],
+       "source": {
+        "title": "放假通知，2027中小学寒假放假时间确定了",
+        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+        "published": "2026-09-25",
+        "grade": "aggregate",
+        "publisher": "凯旋学长（汇总各地教育部门校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+        }
+       ],
+       "source": {
+        "title": "放假通知，2027中小学寒假放假时间确定了",
+        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+        "published": "2026-09-25",
+        "grade": "aggregate",
+        "publisher": "凯旋学长（汇总各地教育部门校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-16",
+         "note": "口径为「不晚于 2027-01-16」，实际可能更早；结束日期待公布"
+        }
+       ],
+       "source": {
+        "title": "放假通知，2027中小学寒假放假时间确定了",
+        "url": "https://www.163.com/dy/article/L7N7310P0536E91Z_pdya11y.html",
+        "published": "2026-09-25",
+        "grade": "aggregate",
+        "publisher": "凯旋学长（汇总各地教育部门校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       },
+       "note": "高中通常比义务教育晚约一周"
+      }
+     }
+    }
+   ],
+   "common": {
+    "note": "省级口径为「不晚于 1 月 16 日」，精确日期需看各州市通知"
+   }
+  },
+  {
+   "code": "540000",
+   "name": "西藏自治区",
+   "abbr": "西藏",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "610000",
+   "name": "陕西省",
+   "abbr": "陕西",
+   "kind": "province",
+   "cities": [
+    {
+     "code": "610100",
+     "name": "西安市",
+     "policies": {
+      "primary": {
+       "scope": "小学",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-22",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "junior": {
+       "scope": "初中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-22",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      },
+      "senior": {
+       "scope": "高中",
+       "holidays": [
+        {
+         "type": "winter",
+         "label": "寒假",
+         "start": "2027-01-29",
+         "note": "结束日期以当地教育局通知为准"
+        }
+       ],
+       "source": {
+        "title": "放假通知！全国多地中小学2027寒假时间确定了！",
+        "url": "https://m.sohu.com/a/1097240142_100934",
+        "published": "2026-11-04",
+        "grade": "aggregate",
+        "publisher": "校长传媒（汇总各地校历）",
+        "fetchedAt": "2026-11-05T22:30:00+08:00"
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "code": "620000",
+   "name": "甘肃省",
+   "abbr": "甘肃",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "630000",
+   "name": "青海省",
+   "abbr": "青海",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "640000",
+   "name": "宁夏回族自治区",
+   "abbr": "宁夏回族",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  },
+  {
+   "code": "650000",
+   "name": "新疆维吾尔自治区",
+   "abbr": "新疆维吾尔",
+   "kind": "province",
+   "cities": [],
+   "pending": "该省 2026-2027 学年中小学寒假安排，目前还没在公开渠道查到教育部门的正式文件。可能是尚未发布，也可能是发布在内部系统/本地媒体上没被收录。",
+   "pendingHint": "补数据的办法：找到省教育厅或市教育局发布的校历公告，在 tools/build_data.py 里按现有格式加一条，重跑脚本即可。"
+  }
+ ],
+ "nationalHolidays": {
+  "year": 2027,
+  "items": [
+   {
+    "type": "newyear",
+    "label": "元旦",
+    "start": "2027-01-01",
+    "end": "2027-01-03",
+    "days": 3
+   },
+   {
+    "type": "spring",
+    "label": "春节",
+    "start": "2027-02-05",
+    "end": "2027-02-13",
+    "days": 9,
+    "note": "1月31日、2月14日上班"
+   },
+   {
+    "type": "qingming",
+    "label": "清明节",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "days": 3
+   },
+   {
+    "type": "labor",
+    "label": "劳动节",
+    "start": "2027-05-01",
+    "end": "2027-05-05",
+    "days": 5,
+    "note": "5月8日上班"
+   },
+   {
+    "type": "dragon",
+    "label": "端午节",
+    "start": "2027-06-09",
+    "end": "2027-06-09",
+    "days": 1
+   },
+   {
+    "type": "midautumn",
+    "label": "中秋节",
+    "start": "2027-09-15",
+    "end": "2027-09-15",
+    "days": 1
+   },
+   {
+    "type": "national",
+    "label": "国庆节",
+    "start": "2027-10-01",
+    "end": "2027-10-07",
+    "days": 7,
+    "note": "9月26日、10月9日上班"
+   }
+  ],
+  "source": {
+   "title": "国务院办公厅关于2027年部分节假日安排的通知",
+   "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+   "docNo": "国办发明电〔2026〕10号",
+   "published": "2026-11-05",
+   "grade": "official",
+   "publisher": "国务院办公厅",
+   "fetchedAt": "2026-11-05T22:30:00+08:00"
+  }
+ },
+ "universities": [
+  {
+   "id": "lzu",
+   "name": "兰州大学",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-18",
+     "end": "2027-02-17",
+     "endDerived": "1/17 结束学期，2/18-19 注册，2/22 上课"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "nwnu",
+   "name": "西北师范大学",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-16",
+     "end": "2027-02-26",
+     "endDerived": "2/27-28 注册，3/1 上课"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "lut",
+   "name": "兰州理工大学",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-18",
+     "end": "2027-02-26",
+     "endDerived": "1/18 起放寒假"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "lzjtu",
+   "name": "兰州交通大学",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-18",
+     "end": "2027-02-28",
+     "endDerived": "校历明确 1/18—2/28 放寒假 6 周"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "gsli",
+   "name": "甘肃政法大学",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-16",
+     "end": "2027-02-26",
+     "endDerived": "校历明确 1/16—2/26，共 6 周"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "lzcu",
+   "name": "兰州文理学院",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-18",
+     "end": "2027-02-26",
+     "endDerived": "2/27-28 注册"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "lzit",
+   "name": "兰州工业学院",
+   "province": "甘肃省",
+   "city": "兰州市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-11",
+     "end": "2027-02-26",
+     "endDerived": "1/11 起放寒假"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "兰州多所高校的寒假时间（整理自各高校校历）",
+    "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxt6635956.shtml",
+    "published": "2026-10-18",
+    "grade": "media",
+    "publisher": "兰州发布",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "jlu",
+   "name": "吉林大学",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-16",
+     "end": "2027-02-28",
+     "endDerived": "校历明确 1/16—2/28"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ccnu",
+   "name": "长春师范大学",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-18",
+     "note": "1/18 起放假"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ccit",
+   "name": "长春工程学院",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-09",
+     "note": "1/9 起放假"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ccmc",
+   "name": "长春医学高等专科学校",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-16",
+     "note": "1/16 起放假"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ccpu",
+   "name": "长春职业技术大学",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-11",
+     "end": "2027-02-28",
+     "endDerived": true,
+     "note": "3/1 开学"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ccut",
+   "name": "长春工业大学",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-11",
+     "end": "2027-02-28",
+     "endDerived": "校历明确 1/11—2/28"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  },
+  {
+   "id": "ybu",
+   "name": "延边大学",
+   "province": "吉林省",
+   "city": "长春市",
+   "holidays": [
+    {
+     "type": "winter",
+     "label": "寒假",
+     "start": "2027-01-04",
+     "end": "2027-02-28",
+     "endDerived": "校历明确 1/4—2/28"
+    }
+   ],
+   "note": "",
+   "source": {
+    "title": "吉林省多所学校公布寒假时间",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34252002",
+    "published": "2026-10-14",
+    "grade": "media",
+    "publisher": "吉林日报（掌上长春综合）",
+    "fetchedAt": "2026-11-05T22:30:00+08:00"
+   }
+  }
+ ],
+ "coverage": {
+  "total": 31,
+  "coveredCount": 31,
+  "withDataCount": 21,
+  "pendingCount": 10,
+  "missingCount": 0,
+  "pending": [
+   {
+    "code": "130000",
+    "name": "河北省"
+   },
+   {
+    "code": "140000",
+    "name": "山西省"
+   },
+   {
+    "code": "220000",
+    "name": "吉林省"
+   },
+   {
+    "code": "230000",
+    "name": "黑龙江省"
+   },
+   {
+    "code": "410000",
+    "name": "河南省"
+   },
+   {
+    "code": "540000",
+    "name": "西藏自治区"
+   },
+   {
+    "code": "620000",
+    "name": "甘肃省"
+   },
+   {
+    "code": "630000",
+    "name": "青海省"
+   },
+   {
+    "code": "640000",
+    "name": "宁夏回族自治区"
+   },
+   {
+    "code": "650000",
+    "name": "新疆维吾尔自治区"
+   }
+  ],
+  "missing": []
+ },
+ "universityNote": "普通高校的校历由各校教务处自行编制并发布，同一城市不同学校也可能不同，不存在全省统一的大学放假时间。「全部 › 高校校历」里是按学校收录的，可以单独关注；没收录的学校请直接查该校教务处官网。"
+}
